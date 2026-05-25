@@ -65,11 +65,11 @@
       </ul>
       <br/>
       <a href="https://github.com/isabelbv/dulcisa-web">
-       <img width="340" height="649" alt="3 ultima" src="https://github.com/user-attachments/assets/c3174875-44b7-4798-9d11-39424b3af6a9" /> alt="Dulcisa Repo" />
+        alt="Dulcisa Repo" />
       </a>
     </td>
     <td width="35%" align="center" valign="top">
-    <img width="311" height="654" alt="avatar len" src="https://github.com/user-attachments/assets/60fb0e98-89d3-473c-8577-1fb468e70479"  alt="Isabel programando Frontend" /> 
+    <img width="340" height="649" alt="3 ultima" src="https://github.com/user-attachments/assets/c3174875-44b7-4798-9d11-39424b3af6a9" />alt="Isabel programando Frontend" /> 
     </td>
   </tr>
 </table>
@@ -137,4 +137,3 @@
 
 * **LinkedIn:** [Isabel de Blas Viñas](https://www.linkedin.com/in/isabel-de-blas-vi%C3%B1as-2093b2188/)
 * **Email:** isabelblasv@gmail.com
-
