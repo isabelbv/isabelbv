@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td width="35%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/e44157a5-d3c6-4945-bca0-33b1a98785ea" width="180" alt="Isabel trabajando en Backend" />
+     <img src="https://github.com/user-attachments/assets/e44157a5-d3c6-4945-bca0-33b1a98785ea" width="180" alt="Isabel trabajando en Backend" /> 
     </td>
     <td width="65%" valign="top">
       <p>En el desarrollo del lado del servidor, me enfoco en construir arquitecturas limpias,responsivas, escalables y seguras. Disfruto estructurando bases de datos robustas, creando lógica eficiente y optimizando el flujo de los datos.</p>
