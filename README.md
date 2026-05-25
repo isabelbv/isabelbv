@@ -64,8 +64,7 @@
         <li>Consumo e integración de <b>APIs REST</b> para la comunicación asíncrona con el backend (control de carrito, stock, alérgenos y pedidos).</li>
       </ul>
       <br/>
-      <a href="https://github.com/isabelbv/dulcisa-web">
-        alt="Dulcisa Repo" />
+      <a href="https://github.com/isabelbv/dulcisa-web" alt="dulcisa-web Repo" />
       </a>
     </td>
     <td width="35%" align="center" valign="top">
