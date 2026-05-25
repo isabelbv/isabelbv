@@ -119,8 +119,8 @@
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=isabelbv&show_icons=true&theme=visual_studio_code" alt="GitHub Readme Stats" />
+  <a href="https://github.com/isabelbv?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=isabelbv&show_icons=true&theme=visual_studio_code" alt="GitHub Repositories" />
   </a>
 </div>
 
