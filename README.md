@@ -65,7 +65,7 @@
       </ul>
       <br/>
       <a href="https://github.com/isabelbv/dulcisa-web">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabelbv&repo=dulcisa-web&theme=visual_studio_code&show_owner=false" alt="Dulcisa Repo" />
+       <img width="340" height="649" alt="3 ultima" src="https://github.com/user-attachments/assets/c3174875-44b7-4798-9d11-39424b3af6a9" /> alt="Dulcisa Repo" />
       </a>
     </td>
     <td width="35%" align="center" valign="top">
@@ -137,4 +137,4 @@
 
 * **LinkedIn:** [Isabel de Blas Viñas](https://www.linkedin.com/in/isabel-de-blas-vi%C3%B1as-2093b2188/)
 * **Email:** isabelblasv@gmail.com
-<img width="340" height="649" alt="3 ultima" src="https://github.com/user-attachments/assets/c3174875-44b7-4798-9d11-39424b3af6a9" />
+
