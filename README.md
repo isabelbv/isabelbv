@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td width="35%" align="center" valign="top">
-  <img src="https://github.com/user-attachments/assets/a1401027-d1cd-4ab5-a4bb-8654da196a6e" width="180" alt="Isabel trabajando en Backend" />
+<img width="311" height="654" alt="avatar len" src="https://github.com/user-attachments/assets/60fb0e98-89d3-473c-8577-1fb468e70479" />
     </td>
     <td width="65%" valign="top">
       <p>En el desarrollo del lado del servidor, me enfoco en construir arquitecturas limpias,responsivas, escalables y seguras. Disfruto estructurando bases de datos robustas, creando lógica eficiente y optimizando el flujo de los datos.</p>
@@ -69,7 +69,7 @@
       </a>
     </td>
     <td width="35%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/a1ac0527-2a3d-4736-ad7a-b4b2e0341c00" width="180" alt="Isabel programando Frontend" />
+    <img width="311" height="654" alt="avatar len" src="https://github.com/user-attachments/assets/60fb0e98-89d3-473c-8577-1fb468e70479"  alt="Isabel programando Frontend" /> 
     </td>
   </tr>
 </table>
@@ -137,3 +137,4 @@
 
 * **LinkedIn:** [Isabel de Blas Viñas](https://www.linkedin.com/in/isabel-de-blas-vi%C3%B1as-2093b2188/)
 * **Email:** isabelblasv@gmail.com
+<img width="340" height="649" alt="3 ultima" src="https://github.com/user-attachments/assets/c3174875-44b7-4798-9d11-39424b3af6a9" />
