@@ -34,7 +34,7 @@
         <li>Control de versiones riguroso con Git trabajando en equipo.</li>
       </ul>
       <a href="https://github.com/isabelbv/medical-iberia">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabelbv&repo=medical-iberia&theme=visual_studio_code&show_owner=false" alt="Medical Iberia Repo" />
+       
       </a>
     </td>
   </tr>
