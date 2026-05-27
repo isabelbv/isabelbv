@@ -33,9 +33,6 @@
         <li><b>Identificación y resolución de bugs críticos (Refactorización)</b>, optimizando la carga y mejorando la fluidez de la aplicación.</li>
         <li>Control de versiones riguroso con Git trabajando en equipo.</li>
       </ul>
-      <a href="https://github.com/isabelbv/medical-iberia">
-       
-      </a>
     </td>
   </tr>
 </table>
